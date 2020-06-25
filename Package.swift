@@ -13,7 +13,7 @@ let package = Package(
             targets: ["NEKit"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/lololo/MMDB-Swift/tree/master", from:"1.0.0"),
+        .package(name:"MMDB", url: "https://github.com/lololo/MMDB-Swift/tree/master", from:"1.0.0"),
         .package(url: "https://github.com/zhuhaow/tun2socks", from:"0.8.0"),
         .package(url: "https://github.com/robbiehanson/CocoaAsyncSocket", from: "7.6.4"),
         .package(name: "CocoaLumberjack", url: "https://github.com/CocoaLumberjack/CocoaLumberjack.git", from: "3.6.0"),
