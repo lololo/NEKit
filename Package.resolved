@@ -1,0 +1,88 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Clibsodium",
+        "repositoryURL": "https://github.com/tiwoc/Clibsodium.git",
+        "state": {
+          "branch": null,
+          "revision": "2ac72772aae26b2da0b15c253d9bb79ba452f66a",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "CocoaAsyncSocket",
+        "repositoryURL": "https://github.com/robbiehanson/CocoaAsyncSocket",
+        "state": {
+          "branch": null,
+          "revision": "0e00c967a010fc43ce528bd633d032f17158d393",
+          "version": "7.6.4"
+        }
+      },
+      {
+        "package": "CocoaLumberjack",
+        "repositoryURL": "https://github.com/CocoaLumberjack/CocoaLumberjack.git",
+        "state": {
+          "branch": null,
+          "revision": "ca78b3dbbb7fb88ee58943592930dc9e2469ba9e",
+          "version": "3.6.1"
+        }
+      },
+      {
+        "package": "Nimble",
+        "repositoryURL": "https://github.com/Quick/Nimble",
+        "state": {
+          "branch": null,
+          "revision": "2b1809051b4a65c1d7f5233331daa24572cd7fca",
+          "version": "8.1.1"
+        }
+      },
+      {
+        "package": "Quick",
+        "repositoryURL": "https://github.com/Quick/Quick",
+        "state": {
+          "branch": null,
+          "revision": "09b3becb37cb2163919a3842a4c5fa6ec7130792",
+          "version": "2.2.1"
+        }
+      },
+      {
+        "package": "Resolver",
+        "repositoryURL": "https://github.com/zhuhaow/Resolver",
+        "state": {
+          "branch": null,
+          "revision": "5d08fd52822d1f9217019ae8867e78daa48f667c",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "Sodium",
+        "repositoryURL": "https://github.com/jedisct1/swift-sodium",
+        "state": {
+          "branch": null,
+          "revision": "5900a54dea817befa18f3148889fe922a38afe7f",
+          "version": "0.8.0"
+        }
+      },
+      {
+        "package": "tun2socks",
+        "repositoryURL": "https://github.com/zhuhaow/tun2socks",
+        "state": {
+          "branch": null,
+          "revision": "47c2e9a7497b10f4fb9c8a764072ac9ee6e91f28",
+          "version": "0.8.0"
+        }
+      },
+      {
+        "package": "Yaml",
+        "repositoryURL": "https://github.com/behrang/YamlSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "287f5cab7da0d92eb947b5fd8151b203ae04a9a3",
+          "version": "3.4.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
