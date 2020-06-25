@@ -28,7 +28,7 @@ let package = Package(
                 dependencies:["MMDB","tun2socks","CocoaAsyncSocket","CocoaLumberjack","Yaml","Resolver","Sodium"]),
         
         .testTarget(
-            name: "MyLibraryTests",
-            dependencies: ["MyLibrary"]),
+            name: "NEKitTest",
+            dependencies: ["NEKit"]),
     ]
 )
